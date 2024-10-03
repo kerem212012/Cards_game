@@ -49,7 +49,7 @@ minotaur1={
 }
 cintaur1 ={
     'Здоровье': 7,
-    'Сила': 9
+    'Сила': 8
 }
 cards1=[favn,dvarf,giant,driad,minotaur,cintaur]
 cards2=[favn1,dvarf1,giant1,driad1,minotaur1,cintaur1]
